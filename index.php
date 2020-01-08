@@ -1,4 +1,4 @@
 <?php 
 
-echo "Opaa";
+echo "Ominimega";
  ?>
